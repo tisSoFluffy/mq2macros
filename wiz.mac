@@ -1,1 +1,21 @@
+[Buffs]
+BuffsOn=1
+BuffsSize=10
+Buffs1=Armor of Wirn
+Buffs2=Improved Familiar
+Buffs3=Pyromancy
+Buffs4=Summoned: Glowing Modulation Shard|mana|80|85
+Buffs5=Wand of Pelagic Transvergence|mana|80|85
+Buffs6=Arcanist's Conflagrant Robe|Mana|78
+Buffs7=Musing Harvest|Mana|76
+Buffs8=Harvest of Druzzil|Mana|72
+Buffs10=<saddle>|Mount
+RebuffOn=1
+CheckBuffsTimer=10
 
+
+[DPS]
+DPS1=Ethereal Braid
+DPS2=Ethereal Fire
+DPS3=Ethereal Icefloe
+DPS4=Frostbound Alliance
