@@ -13,9 +13,55 @@ Buffs10=<saddle>|Mount
 RebuffOn=1
 CheckBuffsTimer=10
 
-
 [DPS]
-DPS1=Ethereal Braid
-DPS2=Ethereal Fire
-DPS3=Ethereal Icefloe
-DPS4=Frostbound Alliance
+DPSOn=2
+DPSSize=21
+DPSSkip=0
+DPSInterval=0
+DPS1=Silent Casting|99|weave|cond1
+DPS2=Call of Xuzl|98|weave|cond1
+DPS3=Arcane Fury|99|weave|cond1
+DPS4=Fury of the Gods|99|weave|cond1
+DPS5=Frenzied Devastation|99|weave|cond1
+DPS6=Arcane Destruction|99|weave|cond1
+DPS7=Fundament: Second Spire of Arcanum|98|weave
+DPS8=Improved Twincast|98|weave
+DPS9=Twincast|98
+DPS10=Shocking Vortex|97
+DPS11=Claw of Qunard|96
+DPS12=Ethereal Braid|95
+DPS13=Ethereal Skyfire|94
+DPS14=Ethereal Icefloe|94
+DPS15=Ethereal Volley|94
+DPS16=Ethereal Skyfire|93
+DPS17=Ethereal Icefloe|92
+DPS18=Ethereal Volley|91
+DPS19=Force of Flame|95|weave
+DPS20=Force of Ice|95|weave
+DPS21=Force of Will|95|weave
+DebuffAllOn=1
+
+[GoM]
+GoMSize=2
+GoMSpell1=Ethereal Braid
+GoMSpell2=Ethereal Skyfire
+
+[KConditions]
+ConOn=1
+CondSize=9
+Cond1=${Target.Named}
+
+[Spells]
+Gem1=Shocking Vortex
+Gem2=Claw of Qunard
+Gem3=Ethereal Braid
+Gem4=Ethereal Skyfire
+Gem5=Ethereal Icefloe
+Gem6=Ethereal Volley
+Gem7=NULL
+Gem8=Wildflash Strike
+Gem9=Twincast
+Gem10=Musing Harvest
+Gem11=Knowledge Gate
+Gem12=Armor of Wirn
+Gem13=NULL
